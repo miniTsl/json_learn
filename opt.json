@@ -1,0 +1,29 @@
+[
+    {
+        "opt_prefix":"xxx or None",
+        "opt_postfix":"xxx or None"
+    },
+
+    {
+        "op_name":"XXX",
+        "KARM":"true or false",
+        "KOpecnCL":"true or false",
+        "KUnK":"true or false"
+    },
+    
+    {
+        "op_name":"XXX",
+        "KARM":"true or false",
+        "KOpecnCL":"true or false",
+        "KUnK":"true or false"
+    },
+
+    {
+        "op_name":"XXX",
+        "KARM":"true or false",
+        "KOpecnCL":"true or false",
+        "KUnK":"true or false"
+    }
+
+
+]
